@@ -15,3 +15,4 @@ composer.phar
 build/.DS_Store
 docs/.DS_Store
 examples/.DS_Store
+/.idea
